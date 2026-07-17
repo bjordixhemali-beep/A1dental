@@ -1,0 +1,32 @@
+# robots.txt - A1 Dental Tirana
+# Tutti i crawler, inclusi quelli delle AI, sono benvenuti.
+
+User-agent: *
+Allow: /
+
+# Crawler AI espliciti (accesso consentito)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://a1dentaltirana.com/sitemap.xml
