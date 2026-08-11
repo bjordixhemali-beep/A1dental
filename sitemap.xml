@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://a1dentaltirana.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://a1dentaltirana.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://a1dentaltirana.com/dentista-tirana-italiani.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://a1dentaltirana.com/impianti-dentali-tirana-italiani.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/all-on-6-albania.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/costo-rifare-denti-albania.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/clinica-dentistica-albania-personale-italiano.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/smile-makeover-tirana.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://a1dentaltirana.com/faccette-composito-tirana.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/faccette-composito-o-ceramica.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://a1dentaltirana.com/costo-faccette-albania.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/allineatori-trasparenti-tirana.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://a1dentaltirana.com/invisalign-o-apparecchio-tradizionale.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
