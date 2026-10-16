@@ -5,6 +5,7 @@ html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{font-family:var(--font);color:var(--ink);background:var(--white);font-size:19px;line-height:1.6;letter-spacing:-.012em;-webkit-font-smoothing:antialiased}
 img{display:block;max-width:100%}
 a{color:inherit}
+a,button{touch-action:manipulation;-webkit-tap-highlight-color:transparent}
 :focus-visible{outline:3px solid #6aa892;outline-offset:3px;border-radius:6px}
 .wrap{max-width:var(--wrap);margin:0 auto;padding:0 22px}
 /* nav (come la home) */
