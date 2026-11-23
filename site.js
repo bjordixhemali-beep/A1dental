@@ -26,7 +26,7 @@
     var b=document.createElement('div'); b.className='ck on'; b.id='ckb';
     b.innerHTML='<p>Usiamo cookie tecnici necessari al funzionamento del sito e, solo con il tuo consenso, cookie statistici (Google Analytics) per capire come viene usato il sito. Puoi accettare o rifiutare: il sito funziona in entrambi i casi.</p>'+
       '<div class="ck-b"><button class="ck-ok" data-v="yes">Accetta</button><button class="ck-no" data-v="no">Rifiuta</button>'+
-      '<a class="ck-no" href="index.html#privacy" style="display:inline-flex;align-items:center;text-decoration:none">Informativa privacy</a></div>';
+      '<a class="ck-no" href="privacy.html" style="display:inline-flex;align-items:center;text-decoration:none">Informativa privacy</a></div>';
     b.addEventListener('click',function(e){
       var v=e.target.getAttribute('data-v'); if(!v)return;
       setC(v); b.className='ck'; if(v==='yes')loadGA();
